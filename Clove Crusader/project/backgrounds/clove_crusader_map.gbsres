@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "3f046f4f-4536-4229-a9b6-4161569d15e1",
+  "name": "clove_crusader_map",
+  "symbol": "bg_clove_crusader_map",
+  "width": 100,
+  "height": 60,
+  "imageWidth": 800,
+  "imageHeight": 480,
+  "filename": "clove_crusader_map.png",
+  "tileColors": "0185b+00!0162+00!01eb1+"
+}
